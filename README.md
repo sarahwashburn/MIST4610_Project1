@@ -9,7 +9,8 @@ Sarah Washburn [@sarahwashburn](https://github.com/sarahwashburn)
 
 
 ## Data Model
-![Final Diagram](https://github.com/user-attachments/assets/c26b898f-364f-4621-a8e0-19f25d5a03e4)
+![Final Diagram](https://github.com/user-attachments/assets/9bb0f0cf-25b3-4b7b-8a48-768f40eea49a)
+
 
 ## Data Dictionary
 
