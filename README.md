@@ -5,7 +5,7 @@ Sp25_21482_Group6
 ## Team Members
 Sarah Washburn [@sarahwashburn](https://github.com/sarahwashburn)  
 Dylan Kiperman [@dylankiperman](https://github.com/dylankiperman)
-
+Nimay Patel    [@nimaypatel](https://github.com/nimaypatel)  
 ## Problem Description
 
 
