@@ -10,6 +10,7 @@ Aay Bel Pa Pa Minn [@aaybelpapaminn](https://github.com/aaybelpapaminn)
 Marshall Massey [@MMassey25](https://github.com/MMassey25)
 
 ## Scenario Description
+The task at hand is to create a data model and build a relational database to represent the basis of an online food delivery service in the United States! Our data model consists of 10 separate entities with the orders entity being the central focus of our model. The orders that customers place allow us to connect with the restaurants our drivers pick up from, where the destination of our orders are, and the customers we deliver to along with their complaints or problems they have with our service. Our main goal is to accurately describe our day-to-day activities and the relationships that happens within our business. To fully show the detail of these relationships, there are a multitude of attributes within each entity filled with general, sample data. Through the use of functional queries, we are able to see where our company flourishes and where it lacks perfection. These queries will show us where we need to improve and how we can be the best possible service for the Srini's Steets Eats' customers!
 
 
 ## Data Model
