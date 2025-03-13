@@ -9,7 +9,7 @@ Nimay Patel [@nimaypatel](https://github.com/nimaypatel)
 Aay Bel Pa Pa Minn [@aaybelpapaminn](https://github.com/aaybelpapaminn)  
 Marshall Massey [@MMassey25](https://github.com/MMassey25)
 
-## Problem Description
+## Scenario Description
 
 
 ## Data Model
