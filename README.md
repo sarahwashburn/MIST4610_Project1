@@ -18,6 +18,7 @@ The task at hand is to create a data model and build a relational database to re
 
 
 ## Data Dictionary
+<img width="636" alt="image" src="https://github.com/user-attachments/assets/ad8d29c4-1d06-4edd-929a-5f4e128ccc72" />
 
 
 ## Ten Queries
