@@ -50,4 +50,5 @@ Note; Question may need further edits
 
 
 ## Database Information
-
+Our group database is under ns_Sp25_21482_Group6
+We have used the bookarking storage method. Each query can be called under the name TP_Qx (x is to be replaced with the query number).
