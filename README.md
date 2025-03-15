@@ -44,6 +44,9 @@ Query 1 allows managers to see what products are popular and which restaurants t
 
 Query 2 will allow managers to determine which drivers dedicate a lot of time to the app and who is the most productive. Through this, they can give a bonus to those drivers who are doing exceptionally well, thus boosting morale and incentivizing the drivers to keep driving for them. 
 
+3. Query 3 organizes Srini's Eats' lowest rated restaurants with a rating out of 5.
+
+5. Query 5 counts the number of John Smith's customer support tickets that were "Quality Issues".
 
 7. Query 7 lists the city and its total revenue that is the highest profit across all cities.
    
