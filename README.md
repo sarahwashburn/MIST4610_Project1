@@ -58,7 +58,7 @@ As a manager of Srini Street Eats, one needs to be aware of their success in rel
 
 ![image](https://github.com/user-attachments/assets/dc0573ff-8475-4372-9339-6475342edb0f)
 
-As a manager of Srini Street Eats, one needs to be aware of their clients’ success to determine whether the current resource allocation provides maximum benefit for the company’s goals. Since 40% of the client restaurants have review ratings below 3, there needs to be slight improvements. Firstly, one has to determine the top restaurants that contribute to the 40%. Secondly, their review descriptions need to be sourced out to determine the percentage of problems that were caused by Srini Street Eats. If it is high, the contract between Srini Street Eats and the restaurant may be continued. If it is low, the contract needs to be analyzed and re-considered as the problems lie with the restaurant, and Srini Street Eats have little to no managerial control over the restaurant. 
+As a manager of Srini Street Eats, one needs to be aware of their clients’ success to determine whether the current resource allocation provides maximum benefit for the company’s goals. Since 42.5% of the orders have review ratings below 3, there needs to be slight improvements. Firstly, one has to determine the restaurant cities and the restaurant names that contribute to the 42.5%. Secondly, their review descriptions need to be sourced out to determine the percentage of problems that were caused by Srini Street Eats. If it is high, the contract between Srini Street Eats and the restaurant may be continued. If it is low, the contract needs to be analyzed and re-considered as the problems lie with the restaurant, and Srini Street Eats have little to no managerial control over the restaurant. 
 
 
 
