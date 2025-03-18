@@ -84,6 +84,17 @@ Query 3 focuses in on the work that the customer support employee, John Smith do
 
 Query 4 will help the Srini's Eats service analyze which restaurants are the worst performing. This will help us, as administrators, decide which restaurants we want to retain as a client and which one's we should abandon. Displaying restaurantID, the name of the restaurant, and an average of the reviewRating in ascending order, Query 4 was succesfully able to identify the restaurans that are receiving the worst reviews, hence performing the worst. Windy City Eats and Bayou Bites each have an average rating of 3.00/5.00, while Gourmet Heaven and Sunset Bistro both have ratings of 4.5/5.00. From a managerial perspective, Srini's Eats can further investigate the poor performance of the lower rated restaurants and see why they are receiving bad reviews. From there, Srini's Eats can choose to advise the restaurant on better practices, or eliminate them from providing their services.
 
+5. .
+
+<img width="483" alt="Screenshot 2025-03-18 at 2 53 55 PM" src="https://github.com/user-attachments/assets/3c318f85-0a5f-4c34-9a45-9500598f9651" />
+
+This query shows which driver has the worst reviews associated with a support ticket under the category of "delivery issue". The actual query lists the driver name, as well as their review rating only if they were listed on a support ticket relating to a delivery issue. This allows my company to see which drivers are struggling and are receiving complaints from our customers. This can let us know if we need to resolve an issue with this driver and if they might not be the best fit for our company. As shown in the results, David Brown received the lowest rating, so our company will need to talk with him about these complaints.
+
+6. .
+
+<img width="651" alt="Screenshot 2025-03-18 at 2 54 10 PM" src="https://github.com/user-attachments/assets/f8c832f2-1950-41e4-8d7b-7ea429864322" />
+
+Through the use of this query, our company is able to see what is the most frequently ordered product from every restaurant by customers not having a premium subscription. In the query we are actually able to see the list of products that are being ordered by people without a premium subscription, and the amount of times it has been ordered. As seen in the results the most frequently ordered item is Pineapple Sorbet, with an amount of 5 times. Using this information we can see which products we need to promote and do not need to promote to our basic customers. Maybe if we promote the highest ordered products more, then we can get more customers to upgrade their membership in order to receive more benefits associated with these items. For example: if a customer upgrades their subscription then they will get a pineapple sorbet bogo deal on their next purchase.
 
 7. Query 7 lists the top three cities and their total revenue that are the highest profits across all cities.
    
