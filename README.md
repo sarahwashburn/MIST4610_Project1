@@ -22,8 +22,8 @@ The task at hand is to create a data model and build a relational database to re
 <img width="638" alt="image" src="https://github.com/user-attachments/assets/5c7fff9e-fd8d-442e-a425-72773937dec5" />
 <img width="639" alt="image" src="https://github.com/user-attachments/assets/bfe8487c-280c-498c-81b1-88d642cbab47" />
 <img width="641" alt="image" src="https://github.com/user-attachments/assets/62e700b7-4c90-4fd7-b37f-1824fd630220" />  
+<img width="721" alt="Screenshot 2025-03-18 at 2 19 52 PM" src="https://github.com/user-attachments/assets/0fa6c3a3-842d-4d9d-bb7c-4ef57bcf25a1" />
 
-![Customer Service Employee Table](https://github.com/user-attachments/assets/f65a870d-8197-45d1-9cd2-cc70393cff8e)
 ![Membership Table](https://github.com/user-attachments/assets/fb7ee9c4-def2-427d-91df-231b1524e6c0)
 <img width="716" alt="Screenshot 2025-03-18 at 1 53 50 PM" src="https://github.com/user-attachments/assets/017bf23c-e742-4db1-b6d9-ebb275933a70" />
 <img width="648" alt="Screenshot 2025-03-18 at 1 54 20 PM" src="https://github.com/user-attachments/assets/5ee1e15d-aea1-4caa-91fb-ce54b44412c1" />
