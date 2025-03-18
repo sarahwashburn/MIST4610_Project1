@@ -48,17 +48,18 @@ Query 1 allows managers to see what products are popular and which restaurants t
 
 Query 2 will allow managers to determine which drivers dedicate a lot of time to the app and who is the most productive. Through this, they can give a bonus to those drivers who are doing exceptionally well, thus boosting morale and incentivizing the drivers to keep driving for them. 
 
-3. Query 3 organizes Srini's Eats' lowest rated restaurants with a rating out of 5.
-
-<img width="945" alt="Screenshot 2025-03-18 at 2 24 13 PM" src="https://github.com/user-attachments/assets/4b18908c-401d-4170-a7d2-0459347c40c8" />
-
-Query 3 will help the Srini's Eats service analyze which restaurants are the worst performing. This will help us, as administrators, decide which restaurants we want to retain as a client and which one's we should abandon. Displaying restaurantID, the name of the restaurant, and an average of the reviewRating in ascending order, Query 3 was succesfully able to identify the restaurans that are receiving the worst reviews, hence performing the worst. Windy City Eats and Bayou Bites each have an average rating of 3.00/5.00, while Gourmet Heaven and Sunset Bistro both have ratings of 4.5/5.00. From a managerial perspective, Srini's Eats can further investigate the poor performance of the lower rated restaurants and see why they are receiving bad reviews. From there, Srini's Eats can choose to advise the restaurant on better practices, or eliminate them from providing their services.
-
-4. Query 4 lists John Smith's customer support tickets that were "Quality Issues" and which restaurant they corresponded to.
+3.Query 3 lists John Smith's customer support tickets that were "Quality Issues" and which restaurant they corresponded to.
 
 <img width="810" alt="Screenshot 2025-03-18 at 2 23 20 PM" src="https://github.com/user-attachments/assets/e7115156-163b-4314-a2d6-d4638ba67d53" />
 
-Query 4 focuses in on the work that the customer support employee, John Smith does, pertaining specific support tickets that he dealt with. This query emits the employee first and last name, which will always be John Smith in this case, as well as the name of the restaurant, the ID of the support ticket to easily refer back to the specific instance, and the description of the issue. These are all "Quality Issues" and REGEXP was used to narrow the query down to this unique issue. These unique insights will allow Srini's Eats to pinpoint specific situations where the restaurants did not provide adequate quality in their food. In this case, Srini's Eats can further investigate the details of the quality issue, like why it happened and ways the restaurant can improve to please their customers. 
+Query 3 focuses in on the work that the customer support employee, John Smith does, pertaining specific support tickets that he dealt with. This query emits the employee first and last name, which will always be John Smith in this case, as well as the name of the restaurant, the ID of the support ticket to easily refer back to the specific instance, and the description of the issue. These are all "Quality Issues" and REGEXP was used to narrow the query down to this unique issue. These unique insights will allow Srini's Eats to pinpoint specific situations where the restaurants did not provide adequate quality in their food. In this case, Srini's Eats can further investigate the details of the quality issue, like why it happened and ways the restaurant can improve to please their customers. 
+
+4. Query 4 organizes Srini's Eats' lowest rated restaurants with a rating out of 5.
+
+<img width="945" alt="Screenshot 2025-03-18 at 2 24 13 PM" src="https://github.com/user-attachments/assets/4b18908c-401d-4170-a7d2-0459347c40c8" />
+
+Query 4 will help the Srini's Eats service analyze which restaurants are the worst performing. This will help us, as administrators, decide which restaurants we want to retain as a client and which one's we should abandon. Displaying restaurantID, the name of the restaurant, and an average of the reviewRating in ascending order, Query 4 was succesfully able to identify the restaurans that are receiving the worst reviews, hence performing the worst. Windy City Eats and Bayou Bites each have an average rating of 3.00/5.00, while Gourmet Heaven and Sunset Bistro both have ratings of 4.5/5.00. From a managerial perspective, Srini's Eats can further investigate the poor performance of the lower rated restaurants and see why they are receiving bad reviews. From there, Srini's Eats can choose to advise the restaurant on better practices, or eliminate them from providing their services.
+
 
 7. Query 7 lists the top three cities and their total revenue that are the highest profits across all cities.
    
