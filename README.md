@@ -53,6 +53,7 @@ Query 3 will help the Srini's Eats service analyze which restaurants are the wor
 
 5. Query 5 lists John Smith's customer support tickets that were "Quality Issues" and which restaurant they corresponded to.
 
+<img width="782" alt="Screenshot 2025-03-18 at 1 34 55 PM" src="https://github.com/user-attachments/assets/a0fdb6c8-ee64-4a2f-84f4-8445804356ad" />
 
 
 Query 5 focuses in on the work that the customer support employee, John Smith does, pertaining specific support tickets that he dealt with. This query emits the employee first and last name, which will always be John Smith in this case, as well as the name of the restaurant, the ID of the support ticket to easily refer back to the specific instance, and the description of the issue. These are all "Quality Issues" and REGEXP was used to narrow the query down to this unique issue. These unique insights will allow Srini's Eats to pinpoint specific situations where the restaurants did not provide adequate quality in their food. In this case, Srini's Eats can further investigate the details of the quality issue, like why it happened and ways the restaurant can improve to please their customers. 
