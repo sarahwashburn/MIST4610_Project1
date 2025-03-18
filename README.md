@@ -108,6 +108,17 @@ As a manager of Srini Street Eats, one needs to be aware of their success in rel
 
 As a manager of Srini Street Eats, one needs to be aware of their clients’ success to determine whether the current resource allocation provides maximum benefit for the company’s goals. Since 42.5% of the orders have review ratings below 3, there needs to be slight improvements. Firstly, one has to determine the restaurant cities and the restaurant names that contribute to the 42.5%. Secondly, their review descriptions need to be sourced out to determine the percentage of problems that were caused by Srini Street Eats. If it is high, the contract between Srini Street Eats and the restaurant may be continued. If it is low, the contract needs to be analyzed and re-considered as the problems lie with the restaurant, and Srini Street Eats have little to no managerial control over the restaurant. 
 
+9. Query 9 tells us which customer gave the highest rating to any select restaurant. This customer will be rewarded with a $5 off coupon on their next order from that restaurant
+
+![image](https://github.com/user-attachments/assets/b379e75b-ce00-4813-af14-c9cd7df37d04)
+
+Identifying the customer who gave the highest review to a specific restaurant helps in rewarding loyal customers and encouraging positive feedback. This query finds the top reviewer and offers them a $5 off coupon for their next order. By recognizing high ratings, the platform boosts customer satisfaction and strengthens restaurant relationships.
+
+10. Query 10 tells us which customer has spent the highest average amount of money compared to the rest of the customers who have ordered from all restaurants
+
+<img width="981" alt="image" src="https://github.com/user-attachments/assets/da70aa8a-f1bf-4dc6-aa93-526a3880623d" />
+
+This query identifies the customer who spends the most on average per order by calculating the total cost, including both delivery and product prices, grouping by customer, and finding the highest spender. Understanding top spenders helps businesses reward loyal customers, build stronger relationships, and boost long-term sales by encouraging repeat orders and brand loyalty.
 
 
 ## Database Information
