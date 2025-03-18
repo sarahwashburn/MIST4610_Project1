@@ -25,6 +25,10 @@ The task at hand is to create a data model and build a relational database to re
 
 ![Customer Service Employee Table](https://github.com/user-attachments/assets/f65a870d-8197-45d1-9cd2-cc70393cff8e)
 ![Membership Table](https://github.com/user-attachments/assets/fb7ee9c4-def2-427d-91df-231b1524e6c0)
+<img width="716" alt="Screenshot 2025-03-18 at 1 53 50 PM" src="https://github.com/user-attachments/assets/017bf23c-e742-4db1-b6d9-ebb275933a70" />
+<img width="648" alt="Screenshot 2025-03-18 at 1 54 20 PM" src="https://github.com/user-attachments/assets/5ee1e15d-aea1-4caa-91fb-ce54b44412c1" />
+<img width="688" alt="Screenshot 2025-03-18 at 1 55 37 PM" src="https://github.com/user-attachments/assets/c7d4f044-dfc1-492e-a8d6-7079d9b859ac" />
+<img width="701" alt="Screenshot 2025-03-18 at 1 56 26 PM" src="https://github.com/user-attachments/assets/75bcd677-6085-4a00-a86d-fe45fb09fc61" />
 
 
 
