@@ -86,15 +86,15 @@ Query 4 will help the Srini's Eats service analyze which restaurants are the wor
 
 5. Query 5 shows which driver has the worst reviews associated with a support ticket under the category of "delivery issue"
 
-<img width="483" alt="Screenshot 2025-03-18 at 2 53 55 PM" src="https://github.com/user-attachments/assets/3c318f85-0a5f-4c34-9a45-9500598f9651" />
+<img width="445" alt="image" src="https://github.com/user-attachments/assets/bbdaba6d-c042-4588-9e89-b5d78d306520" />
 
 This query shows which driver has the worst reviews associated with a support ticket under the category of "delivery issue". The actual query lists the driver name, as well as their review rating only if they were listed on a support ticket relating to a delivery issue. This allows my company to see which drivers are struggling and are receiving complaints from our customers. This can let us know if we need to resolve an issue with this driver and if they might not be the best fit for our company. As shown in the results, David Brown received the lowest rating, so our company will need to talk with him about these complaints.
 
 6. Query 6 allows our company to see what is the most frequently ordered product from every restaurant by customers not having a premium subscription
 
-<img width="651" alt="Screenshot 2025-03-18 at 2 54 10 PM" src="https://github.com/user-attachments/assets/f8c832f2-1950-41e4-8d7b-7ea429864322" />
+<img width="653" alt="image" src="https://github.com/user-attachments/assets/ab8d4056-996c-4094-8b0e-4e1021de9cec" />
 
-Through the use of this query, our company is able to see what is the most frequently ordered product from every restaurant by customers not having a premium subscription. In the query we are actually able to see the list of products that are being ordered by people without a premium subscription, and the amount of times it has been ordered. As seen in the results the most frequently ordered item is Pineapple Sorbet, with an amount of 5 times. Using this information we can see which products we need to promote and do not need to promote to our basic customers. Maybe if we promote the highest ordered products more, then we can get more customers to upgrade their membership in order to receive more benefits associated with these items. For example: if a customer upgrades their subscription then they will get a pineapple sorbet bogo deal on their next purchase.
+Through the use of this query, our company is able to see what is the most frequently ordered product from every restaurant by customers not having a premium subscription. In the query we are actually able to see the list of products that are being ordered by people without a premium subscription, and the amount of times it has been ordered. As seen in the results the most frequently ordered item is Pineapple Sorbet, with an amount of 5 times. Using this information we can see which products we need to promote and do not need to promote to our basic customers. I only chose items ordered over 2 times because an item being ordered twice is not considered statistically significant when looking at how many times other items were ordered. Maybe if we promote the highest ordered products more, then we can get more customers to upgrade their membership in order to receive more benefits associated with these items. For example: if a customer upgrades their subscription then they will get a pineapple sorbet bogo deal on their next purchase.
 
 7. Query 7 lists the top three cities and their total revenue that are the highest profits across all cities.
    
