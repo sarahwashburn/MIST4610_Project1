@@ -46,7 +46,16 @@ Query 2 will allow managers to determine which drivers dedicate a lot of time to
 
 3. Query 3 organizes Srini's Eats' lowest rated restaurants with a rating out of 5.
 
-5. Query 5 counts the number of John Smith's customer support tickets that were "Quality Issues".
+<img width="779" alt="Screenshot 2025-03-18 at 1 34 26 PM" src="https://github.com/user-attachments/assets/93acaf8a-32cf-445e-acf4-3bd4ef74f4be" />
+
+
+Query 3 will help the Srini's Eats service analyze which restaurants are the worst performing. This will help us, as administrators, decide which restaurants we want to retain as a client and which one's we should abandon. Displaying restaurantID, the name of the restaurant, and an average of the reviewRating in ascending order, Query 3 was succesfully able to identify the restaurans that are receiving the worst reviews, hence performing the worst. Windy City Eats and Bayou Bites each have an average rating of 3.00/5.00, while Gourmet Heaven and Sunset Bistro both have ratings of 4.5/5.00. From a managerial perspective, Srini's Eats can further investigate the poor performance of the lower rated restaurants and see why they are receiving bad reviews. From there, Srini's Eats can choose to advise the restaurant on better practices, or eliminate them from providing their services.
+
+5. Query 5 lists John Smith's customer support tickets that were "Quality Issues" and which restaurant they corresponded to.
+
+
+
+Query 5 focuses in on the work that the customer support employee, John Smith does, pertaining specific support tickets that he dealt with. This query emits the employee first and last name, which will always be John Smith in this case, as well as the name of the restaurant, the ID of the support ticket to easily refer back to the specific instance, and the description of the issue. These are all "Quality Issues" and REGEXP was used to narrow the query down to this unique issue. These unique insights will allow Srini's Eats to pinpoint specific situations where the restaurants did not provide adequate quality in their food. In this case, Srini's Eats can further investigate the details of the quality issue, like why it happened and ways the restaurant can improve to please their customers. 
 
 7. Query 7 lists the top three cities and their total revenue that are the highest profits across all cities.
    
