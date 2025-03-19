@@ -56,7 +56,9 @@ CustomerServiceEmployees- Finally the CustomerServiceEmployees entity shows who 
 
 
 
-## Ten Queries
+## Queries
+
+<img width="732" alt="Screenshot 2025-03-18 at 9 44 06 PM" src="https://github.com/user-attachments/assets/c14d0ffa-4800-4a32-b31a-28c8b288c15c" />
 
 
 1. Query 1 lists the products, their restaurants, and the total number of times customers have ordered said products. This query lists those products whose total number of quantity ordered is greater than the average quantity ordered among all products.
